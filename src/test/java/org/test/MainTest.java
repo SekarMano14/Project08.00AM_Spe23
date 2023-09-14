@@ -6,7 +6,8 @@ public class MainTest {
 	
 	@Test
 	private void test() {
-		//write the code logic here
+		System.out.println("Test4");
+		System.out.println("Test5");
 
 	}
 
